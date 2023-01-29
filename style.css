@@ -1,0 +1,20 @@
+#heading{
+    background-color: azure;
+    margin-top: 0;
+    width: 100%;
+    font-size: 30px;
+    border-radius: 30px;   
+}
+
+#start,#status,#rules,#status2,#input{
+    font-size: 20px;
+    background-color: azure;
+    margin-top: 5px;
+    border-radius: 30px;
+}
+canvas{
+    margin-top: 120px;
+    border: 3px dotted aliceblue;
+    border-radius: 30px;
+    box-shadow: 7px 7px 7px rgb(202, 230, 255);
+}
